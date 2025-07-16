@@ -1,4 +1,4 @@
 
 **The Response**
 
-![alt text](image-1.png)
+![alt text](publix/image-1.png)
